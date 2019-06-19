@@ -36,7 +36,7 @@
   "author": "Jairo Odeli Junior <odelijairo@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "boleto.js": "^1.1.2",
+    "boleto.js": "git://github.com/igui-br/boleto.js.git#master",
     "pdfkit": "0.8.3",
     "svg-to-pdfkit": "^0.1.7"
   },
